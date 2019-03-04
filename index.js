@@ -39,6 +39,6 @@ function sayHiToGrandma(string){
       case string = "I love you, Grandma.":
         return "I love you, too!";
         break;
-      
-  
+
+
 }
